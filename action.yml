@@ -1,6 +1,10 @@
 # action.yml
-name: 'Hello World'
+name: 'salesforce-ci-action'
 description: 'Greet someone and record the time'
+author: 'atikur-rabbi'
+branding:
+  icon: 'activity'
+  color: 'blue'
 inputs:
   who-to-greet:  # id of input
     description: 'Who to greet'
